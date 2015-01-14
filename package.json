@@ -1,0 +1,13 @@
+{
+  "name": "generator-flathtml",
+  "version": "0.0.1",
+  "description": "Very simple yeoman HTML generator, just HTML.",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Jason Stallings",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.18.6"
+  }
+}
