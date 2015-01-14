@@ -1,12 +1,16 @@
 {
   "name": "generator-flathtml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Very simple yeoman HTML generator, just HTML.",
   "keywords": [
     "yeoman-generator"
   ],
   "author": "Jason Stallings",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octalmage/generator-flathtml/"
+  },
   "dependencies": {
     "yeoman-generator": "^0.18.6"
   }
